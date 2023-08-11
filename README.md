@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TalsLabs
-- 👀 I’m interested in AI, Biology and Gaming!
+- 👋 Hi, I’m Talha
+- 👀 I’m interested in AI, Biology and Tech!
 - 🌱 I’m currently learning Python and Front-End Web Dev.
 - 📫 You can reach me on here, just DM me anytime ☺
 
